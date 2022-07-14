@@ -1,7 +1,7 @@
 ### Hello there 😉
 I am Kyure_A(GitHub doesn't allow "_", so "-" is used instead).
 
-### likes
+### favorites software
 Emacs, org-mode
 
 <!--
