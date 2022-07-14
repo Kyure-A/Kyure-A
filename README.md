@@ -1,4 +1,5 @@
-### Hi there 👋
+### HI
+I am Kyure_A .(GitHub doesn't allow "_", so "-" is used instead)
 
 <!--
 **Kyure-A/Kyure-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
