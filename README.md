@@ -4,7 +4,8 @@
 I am Kyure_A(GitHub doesn't allow "_", so "-" is used instead).
 
 #### favorites software
-Emacs, org-mode
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
 <!--
 **Kyure-A/Kyure-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
