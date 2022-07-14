@@ -1,4 +1,6 @@
 ### Hello there 😉
+![Twitter](https://badgen.net/twitter/follow/Kyure_A)
+
 I am Kyure_A(GitHub doesn't allow "_", so "-" is used instead).
 
 #### favorites software
