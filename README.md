@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=dracula)
 
 ### Hello there 😉
 ![Twitter](https://badgen.net/twitter/follow/Kyure_A)
