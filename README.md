@@ -1,8 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A)]
-(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact)
 
 ### Hello there 😉
 ![Twitter](https://badgen.net/twitter/follow/Kyure_A)
