@@ -9,3 +9,6 @@ I am "Kyure_A". (GitHub doesn't allow "_", so "-" is used instead)
 
 a.k.a. "kyre".
 
+Currently, I study engineering in [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html)🏫.
+
+
