@@ -2,12 +2,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=monokai)
 
-## Hello there 😉
+## 😆 Hello there
 
 I am "Kyure_A" a.k.a. "kyre". <span style="color: gray; ">(GitHub doesn't allow "_", so "-" is used instead)</span> 
 
 Currently, I study engineering in [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html)🏫. I love Emacs ![EmacsIcon](./EmacsIcon.svg). (But unfortunately, I have little skill to write Emacs Lisp.)
 
-## Contact 🔍
+## 🔍 Contact
 
 ![Twitter](https://badgen.net/twitter/follow/Kyure_A)
