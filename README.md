@@ -6,7 +6,9 @@
 
 I am "Kyure_A" a.k.a. "kyre". <span style="color: gray; ">(GitHub doesn't allow "_", so "-" is used instead)</span> 
 
-Currently, I study engineering in [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) 🏫. I love Emacs ![EmacsIcon](./EmacsIcon.svg). (But unfortunately, I have little skill to write Emacs Lisp.)
+Currently, I'm a student studying engineering in [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) 🏫. 
+
+I love Emacs ![EmacsIcon](./EmacsIcon.svg). (But unfortunately, I have little skill to write Emacs Lisp.)
 
 ## 🔍 Contact
 
