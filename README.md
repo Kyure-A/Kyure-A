@@ -12,4 +12,4 @@ I love Emacs ![EmacsIcon](./EmacsIcon.svg). (But unfortunately, I have little sk
 
 ## 🔍 Contact
 
-![Twitter](https://badgen.net/twitter/follow/Kyure_A)
+![Twitter](https://badgen.net/twitter/follow/kyureq)
