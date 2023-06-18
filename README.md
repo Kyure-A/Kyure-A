@@ -1,5 +1,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A&theme=monokai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=monokai&exclude_repo=nand2tetris,dotfiles,AtCoder,competitive-snippets)
 
+![Last.fm](https://toru.kio.dev/api/v1/kyure_a?theme=dark)
+
 ## 😆 Hello there
 
 I am "Kyure_A" a.k.a. "kyre". (GitHub doesn't allow "_", so "-" is used instead)
