@@ -10,7 +10,7 @@ I am "Kyure_A" a.k.a. "kyre". (GitHub doesn't allow "_", so "-" is used instead)
 
 Currently, I'm a student studying engineering in [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) 🏫. 
 
-I love Emacs ![EmacsIcon](./EmacsIcon.svg). (But unfortunately, I have little skill to write Emacs Lisp.)
+I love Emacs ![EmacsIcon](./EmacsIcon.svg).
 
 ## ⌨️ Skills
 - IDE/Editor
