@@ -8,26 +8,27 @@
 
 I am "Kyure_A" a.k.a. "kyre". (GitHub doesn't allow "_", so "-" is used instead)
 
-Currently, I'm a student studying engineering in [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) 🏫. 
+Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) . 
 
-I love Emacs ![EmacsIcon](./EmacsIcon.svg).
-
+I love ![EmacsIcon](./EmacsIcon.svg) Emacs.
+<img alt="" width="26px" src="" />
 ## ⌨️ Skills
 - IDE/Editor
-  - Emacs ![EmacsIcon](./EmacsIcon.svg)
+  
+  - ![EmacsIcon](./EmacsIcon.svg) Emacs
   - Visual Studio
   - Visual Studio Code
 
 - Languages
   - Great
-    - TypeScript (Backend)
-    - C++
+    - <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> TypeScript (Backend) 
+    - <img alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /> C++
       
   - Good
-    - Emacs Lisp
-    - HTML 
-    - CSS (Without framework)
+    - ![EmacsIcon](./EmacsIcon.svg) Emacs Lisp
+    - <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML
+    - <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS (Without framework)
 
   - Currently Learning
-    - Rust
-    - Elixir
+    - <img alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /> Rust
+    - <img alt="Elixir" width="26px" src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4" /> Elixir
