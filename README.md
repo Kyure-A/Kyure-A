@@ -1,8 +1,11 @@
+<div align="center">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A&theme=monokai) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=monokai&exclude_repo=nand2tetris,dotfiles,AtCoder,competitive-snippets)
 
-![Last.fm](https://toru.kio.dev/api/v1/kyure_a?theme=dark&border_radius=5)
+  <a href="https://last.fm/user/kyure_a" target="_blank"><img src="https://toru.kio.dev/api/v1/kyure_a?theme=monokai&border_radius=5" alt="Last.fm Activity" width="380px" /></a>
+</div>
 
 ## 😆 Hello there
 
