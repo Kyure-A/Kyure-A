@@ -12,7 +12,7 @@ Currently, I'm a student studying engineering in [Kosen](https://www.kosen-k.go.
 
 I love Emacs ![EmacsIcon](./EmacsIcon.svg). (But unfortunately, I have little skill to write Emacs Lisp.)
 
-## Skills
+## ⌨️ Skills
 - IDE/Editor
   - Emacs ![EmacsIcon](./EmacsIcon.svg)
   - Visual Studio
