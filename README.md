@@ -17,10 +17,11 @@ I love ![EmacsIcon](./EmacsIcon.svg) Emacs.
 <img alt="" width="26px" src="" />
 ## ⌨️ Skills
 - IDE/Editor
-  
-  - ![EmacsIcon](./EmacsIcon.svg) Emacs
-  - Visual Studio
-  - Visual Studio Code
+  - IDE  
+    - Visual Studio
+  - Editor
+    - ![EmacsIcon](./EmacsIcon.svg) Emacs
+    - Visual Studio Code
 
 - Languages
   - Great
