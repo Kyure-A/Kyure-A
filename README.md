@@ -1,15 +1,8 @@
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A&theme=monokai) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=monokai&exclude_repo=nand2tetris,dotfiles,AtCoder,competitive-snippets)
-
-  <a href="https://last.fm/user/kyure_a" target="_blank"><img src="https://toru.kio.dev/api/v1/kyure_a?theme=monokai&border_radius=5" alt="Last.fm Activity" width="380px" /></a>
-</div>
-
 ## 😆 Hello there
 
-I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "kyre". (GitHub doesn't allow "_", so "-" is used instead) Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) . I love ![Emacs Icon](./EmacsIcon.svg) Emacs!  I can write a bit of Emacs Lisp (specifically to the extent that I can write plugins that don't specifically mess with buffers). My favorite colour theme is monokai! LET'S ALL LOVE MONOKAI.
+I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "kyre". (GitHub doesn't allow "_", so "-" is used instead) 
+Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) (3rd year). 
+I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai! LET'S ALL LOVE MONOKAI.
 
 ## ⌨️ Skills
 - IDE/Editor
@@ -33,3 +26,11 @@ I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent
   - Currently Learning
     - <img alt="Rust Icon" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /> Rust
     - <img alt="Elixir Icon" width="26px" src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4" /> Elixir
+
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A&theme=monokai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=monokai&exclude_repo=nand2tetris,dotfiles,AtCoder,competitive-snippets)
+
+## Listening to
+<div align="center">
+  <a href="https://last.fm/user/kyure_a" target="_blank"><img src="https://toru.kio.dev/api/v1/kyure_a?theme=monokai&border_radius=5" alt="Last.fm Activity" width="380px" /></a>
+</div>
