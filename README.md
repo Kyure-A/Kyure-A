@@ -13,8 +13,8 @@ I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent
 
 Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) . 
 
-I love ![Emacs Icon](./EmacsIcon.svg) Emacs! I can write a bit of Emacs Lisp (specifically to the extent that I can write plugins that don't specifically mess with buffers).
-<img alt="" width="26px" src="" /> 
+I love ![Emacs Icon](./EmacsIcon.svg) Emacs!  I can write a bit of Emacs Lisp (specifically to the extent that I can write plugins that don't specifically mess with buffers). My favorite colour theme is monokai! LET'S ALL LOVE MONOKAI.
+
 ## ⌨️ Skills
 - IDE/Editor
   - IDE  
