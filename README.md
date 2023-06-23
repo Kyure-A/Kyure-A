@@ -9,11 +9,7 @@
 
 ## 😆 Hello there
 
-I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "kyre". (GitHub doesn't allow "_", so "-" is used instead)
-
-Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) . 
-
-I love ![Emacs Icon](./EmacsIcon.svg) Emacs!  I can write a bit of Emacs Lisp (specifically to the extent that I can write plugins that don't specifically mess with buffers). My favorite colour theme is monokai! LET'S ALL LOVE MONOKAI.
+I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "kyre". (GitHub doesn't allow "_", so "-" is used instead) Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) . I love ![Emacs Icon](./EmacsIcon.svg) Emacs!  I can write a bit of Emacs Lisp (specifically to the extent that I can write plugins that don't specifically mess with buffers). My favorite colour theme is monokai! LET'S ALL LOVE MONOKAI.
 
 ## ⌨️ Skills
 - IDE/Editor
