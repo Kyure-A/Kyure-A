@@ -1,16 +1,16 @@
 ## 😆 Hello there
 
-I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "kyre". (GitHub doesn't allow "_", so "-" is used instead) 
+I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "kyre" (GitHub doesn't allow "_", so "-" is used instead). 
 Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) (3rd year). 
 I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai! LET'S ALL LOVE MONOKAI.
 
 ## ⌨️ Skills
 - IDE/Editor
-  - IDE  
-    - <img alt="Visual Studio Icon" width="20px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" /> Visual Studio
   - Editor
     - ![Emacs Icon](./EmacsIcon.svg) Emacs
     - <img alt="Visual Studio Code Icon" width="20px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" /> Visual Studio Code
+  - IDE  
+    - <img alt="Visual Studio Icon" width="20px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" /> Visual Studio
 
 - Languages
   - Great
@@ -31,6 +31,4 @@ I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A&theme=monokai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=monokai&exclude_repo=nand2tetris,dotfiles,AtCoder,competitive-snippets)
 
 ## Listening to
-<div align="center">
   <a href="https://last.fm/user/kyure_a" target="_blank"><img src="https://toru.kio.dev/api/v1/kyure_a?theme=monokai&border_radius=5" alt="Last.fm Activity" width="380px" /></a>
-</div>
