@@ -1,6 +1,6 @@
 ## 😆 Hello there
 
-I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "kyre" (GitHub doesn't allow "_", so "-" is used instead). 
+I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "キュレェ" (GitHub doesn't allow "_", so "-" is used instead). 
 Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) (3rd year). 
 I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai! LET'S ALL LOVE MONOKAI.
 
