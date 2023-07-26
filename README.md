@@ -1,8 +1,11 @@
-## 😆 Hello there
-
-I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "キュレェ" (GitHub doesn't allow "_", so "-" is used instead). 
-Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) (3rd year). 
+<div align="center">
+  <h2>I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "キュレェ"
+</h2>
+  
+  Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) (3rd year). 
 I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai! LET'S ALL LOVE MONOKAI.
+
+</div>
 
 ## ⌨️ Skills
 - IDE/Editor
@@ -24,6 +27,7 @@ I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai
     - <img alt="CSS3 Icon" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS (Without framework)
 
   - Currently Learning
+    - <img alt="Svelte Icon" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"/> Svelte
     - <img alt="Rust Icon" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /> Rust
     - <img alt="Elixir Icon" width="26px" src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4" /> Elixir
 
