@@ -28,8 +28,8 @@ I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai
 
   - Currently Learning
     - <img alt="Svelte Icon" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"/> Svelte
-    - <img alt="Rust Icon" style="background-color:#EEEEEE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /> Rust
-    - <img alt="Elixir Icon" style="background-color:#EEEEEE" width="26px" src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4" /> Elixir
+    - <img alt="Rust Icon" style="background-color:#EEEEEE" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpzrZI8crJpgIJqbJKO8Y8I3rV2lr5QYv02w&usqp=CAU" /> Rust
+    - <img alt="Elixir Icon" width="26px" src="https://elixir-lang.org/favicon.ico" /> Elixir
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A&theme=monokai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=monokai&exclude_repo=nand2tetris,dotfiles,AtCoder,competitive-snippets,calculus-semi)
