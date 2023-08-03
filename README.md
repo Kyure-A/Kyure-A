@@ -30,7 +30,7 @@ I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai
   - Currently Learning
     - <img alt="Rust Icon" style="background-color:#EEEEEE" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpzrZI8crJpgIJqbJKO8Y8I3rV2lr5QYv02w&usqp=CAU" /> Rust
     - <img alt="Elixir Icon" width="26px" src="https://elixir-lang.org/favicon.ico" /> Elixir
-    - <img alt="Hylang Icon" width="28px" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-hylang-logo.png" /> Hylang
+    - <img alt="Hylang Icon" width="26px" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-hylang-logo.png" /> Hylang
       - I don't like Python syntax, but if it's expressed in S-expression, I would like to code it.
 
 ## Stats
