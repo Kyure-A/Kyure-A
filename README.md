@@ -20,9 +20,10 @@ I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai
     - <img alt="TypeScript Icon" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> TypeScript
       - with Node.js
     -  <img alt="GAS Icon" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" /> Google Apps Script
-        - I don't want to touch the Data Base, so I use a spreadsheet instead of the DB. 
+        - I don't want to touch the Data Base, so I use a spreadsheet instead of the DB.
+        - with Clasp
     - <img alt="C++ Icon" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /> C++
-      - I use it for competitive programming. 
+      - I use it for competitive programming.
       
   - Good
     - ![Emacs Icon](./EmacsIcon.svg) Emacs Lisp
