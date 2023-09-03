@@ -8,7 +8,7 @@ I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai
 </div>
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A&theme=monokai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=monokai&exclude_repo=nand2tetris,dotfiles,AtCoder,competitive-snippets,calculus-semi,gen-subdomain-repo,status-visualizer,font&langs_count=8)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyure-A&theme=monokai&rank_icon=github&show_icons=true&layout=compact&hide=stars)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyure-A&layout=compact&theme=monokai&exclude_repo=nand2tetris,dotfiles,AtCoder,competitive-snippets,calculus-semi,gen-subdomain-repo,status-visualizer,font&langs_count=6)
 
 ## Listening to
   <a href="https://last.fm/user/kyure_a" target="_blank"><img src="https://toru.kio.dev/api/v1/kyure_a?theme=monokai&border_radius=5" alt="Last.fm Activity" width="380px" /></a>
