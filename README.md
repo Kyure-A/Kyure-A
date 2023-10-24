@@ -3,7 +3,7 @@
 </h2>
   
   Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) (3rd year). 
-I love ![Emacs Icon](./EmacsIcon.svg) Emacs! My favorite colour theme is monokai! LET'S ALL LOVE MONOKAI.
+I love ![Emacs Icon](./EmacsIcon.svg) Emacs!
 
 </div>
 
