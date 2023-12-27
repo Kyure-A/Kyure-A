@@ -2,7 +2,8 @@
   <h2>I am <img alt="Kyure_A icon" width="26px" src="https://avatars.githubusercontent.com/u/49436968?v=4" /> "Kyure_A" a.k.a. "キュレェ"
 </h2>
   
-  Currently, I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) (3rd year). 
+  I'm a student studying engineering in 🏫 [Kosen](https://www.kosen-k.go.jp/english/what/features/features.html) (3rd year) and I work part-time as a backend engineer at a startup company.
+  
 I love ![Emacs Icon](./EmacsIcon.svg) Emacs!
 
 </div>
